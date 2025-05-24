@@ -1,45 +1,53 @@
-# Superstore-Sales
+# 📈 Superstore Sales Dashboard – Power BI Project
 
-📊 Superstore Sales Dashboard – Key Insights
-Total Orders: 42,000+ orders processed
+This Power BI dashboard provides insights into regional sales performance, customer segments, product categories, and overall sales trends for a retail superstore.
 
-Total Revenue: $10.38 million generated across all categories
+![Superstore Dashboard](./db99f7fb-2a37-4be3-a79f-65c103e7ecaa.png)
 
-Total Profit: $1.22 million profit margin, indicating healthy performance
+---
 
-Total Returns: 964 return transactions identified and tracked
+## 🧾 Overview
 
-Quantity Sold: Over 147,000 items sold
+- **Total Orders**: 42,000+  
+- **Total Revenue**: $10.38M  
+- **Total Profit**: $1.22M  
+- **Total Returns**: 964  
+- **Total Quantity Sold**: 147K items  
 
-🔍 Category Performance
-Top Category: Office Supplies (15.66K sales)
+---
 
-Other Categories:
+## 📊 Key Performance Insights
 
-Technology: 6.91K
+### ✅ Category-Wise Sales
+- **Top Category**: Office Supplies (15.66K sales)
+- Technology and Furniture follow with 6.91K and 6.72K sales respectively.
 
-Furniture: 6.72K
+### ✅ Sales by Segment
+- **Consumer Segment** dominates with 51.37%
+- Corporate: 30.17%
+- Home Office: 18.45%
 
-🧠 Segment Distribution
-Consumer: 51.37% (majority customer base)
+### ✅ Sales & Profit Trend Over Time
+- Sales increased from **$2.7M in 2012** to **$4.3M in 2014**
+- Profit remains consistent but significantly lower than sales, indicating possible margin challenges
 
-Corporate: 30.17%
+### ✅ Top Sub-Categories by Sales
+- **Copiers** lead with $58K in revenue
+- Followed by Phones ($30K), Tables, and Binders
 
-Home Office: 18.45%
+### ✅ Geographic Sales Distribution
+- Dense sales clusters observed in **North America**, **Europe**, and parts of **Asia**
+- Global presence indicated across continents
 
-📈 Sales Trend Over Time (2011–2014)
-Sales grew steadily from $2.7M in 2012 to $4.3M in 2014
+---
 
-Profit trend also improved but remained below $1M annually
+## 💡 Business Recommendations
 
-💡 Top Performing Sub-Categories
-Copiers: $58K in sales (highest)
+- Focus marketing efforts on **Office Supplies**, especially **Copiers**
+- Explore upselling in **Furniture** and **Technology** to increase per-order profit
+- Investigate **return reasons** to reduce the 964 returns and improve net margin
+- Monitor **regional performance** for inventory optimization
 
-Phones: $30K+
+---
 
-Other key products: Tables, Binders, Machines
 
-🌍 Global Reach
-Sales spread across North America, Europe, Asia, and Australia
-
-Densely packed clusters in U.S. and Europe
