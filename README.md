@@ -2,7 +2,7 @@
 
 This Power BI dashboard provides insights into regional sales performance, customer segments, product categories, and overall sales trends for a retail superstore.
 
-![Superstore Dashboard](./db99f7fb-2a37-4be3-a79f-65c103e7ecaa.png)
+![Superstore Dashboard](./image.png)
 
 ---
 
